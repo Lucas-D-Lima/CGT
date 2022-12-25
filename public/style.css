@@ -1,0 +1,8 @@
+canvas{
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    border: 5px solid black;
+    width: 500px;
+    height: 500px;
+}
